@@ -276,7 +276,7 @@ fun Pantalla2Preview() {
     Pantalla2Content(
         peliculas = listaPeliculas,
         joke = JokeResponse(
-            id = "abc123",
+            id = "gjfhgcbx",
             value = "Chuck Norris no necesita previews, los previews lo necesitan a él.",
             icon_url = ""
         ),
