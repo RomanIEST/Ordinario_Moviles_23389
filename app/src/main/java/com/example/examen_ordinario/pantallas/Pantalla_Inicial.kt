@@ -138,7 +138,7 @@ fun PantallaInicialContent(
     }
 }
 
-@Preview(showBackground = true, showSystemUi = true)
+
 @Composable
 fun PantallaInicialPreview() {
     PantallaInicialContent(onComenzarClick = {})

@@ -270,7 +270,7 @@ fun Pantalla2Content(
     }
 }
 
-@Preview(showBackground = true, showSystemUi = true)
+
 @Composable
 fun Pantalla2Preview() {
     Pantalla2Content(
